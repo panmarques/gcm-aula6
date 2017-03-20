@@ -8,4 +8,7 @@
  * SNV
  * Mercurial
  * Perforce
- * Git
+ * Clear Case
+ * SNV
+ * Mercurial
+  * Git
