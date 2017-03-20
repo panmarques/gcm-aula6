@@ -5,6 +5,7 @@
  * RCS
  * CVS
  * Source Safe
+ * Clear Case
  * SNV
  * Mercurial
  * Git
