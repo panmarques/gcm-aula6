@@ -2,9 +2,9 @@
 
  Ferramentas de controle de versão:
  
- *RCS
- *CVS
- *Source Safe
- *SNV
- *Mercurial
- *Git
+ * RCS
+ * CVS
+ * Source Safe
+ * SNV
+ * Mercurial
+ * Git
